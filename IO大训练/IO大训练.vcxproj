@@ -112,6 +112,12 @@
   <ItemGroup>
     <ClCompile Include="源.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="IO.in" />
+    <None Include="IO.out" />
+    <None Include="IObin.in" />
+    <None Include="IObin.out" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

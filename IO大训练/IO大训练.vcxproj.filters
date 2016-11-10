@@ -19,4 +19,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="IO.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="IObin.in">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="IObin.out">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="IO.out">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
 </Project>
